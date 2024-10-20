@@ -6,7 +6,7 @@ class Project {
 
 		while(run) {
 			Scanner keyboard = new Scanner(System.in);
-			System.out.println("*-- PRODUCT SYSTEM OF MARKET --*\n");
+			System.out.println("*-- PRODUCT SYSTEM FOR MARKET --*\n");
             
 			String userName = "admin";
 			int password = 123;
